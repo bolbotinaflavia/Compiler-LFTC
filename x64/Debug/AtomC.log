@@ -1,0 +1,14 @@
+﻿  parser.c
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(75,3): warning C4047: 'return': 'int' differs in levels of indirection from 'Type *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(79,3): warning C4047: 'return': 'int' differs in levels of indirection from 'Type *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(83,3): warning C4047: 'return': 'int' differs in levels of indirection from 'Type *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(93,4): warning C4047: 'return': 'int' differs in levels of indirection from 'Type *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(292,10): warning C4133: 'function': incompatible types - from 'Token *' to 'const char *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(323,17): warning C4013: 'safeAlloc' undefined; assuming extern returning int
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(323,15): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(422,4): warning C4047: 'return': 'int' differs in levels of indirection from 'Type *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(673,11): warning C4133: 'function': incompatible types - from 'Token *' to 'const char *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(722,31): warning C4133: 'function': incompatible types - from 'Token *' to 'const char *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(725,57): warning C4133: 'function': incompatible types - from 'Token *' to 'const char *'
+C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\AtomC\parser.c(103,1): warning C4715: 'typeBase': not all control paths return a value
+  AtomC.vcxproj -> C:\Flavia\Scoala\An3 Sem 2\LFTC\AtomC\x64\Debug\AtomC.exe
